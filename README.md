@@ -18,3 +18,5 @@
 
 ## Api Used
 - https://dictionaryapi.dev/
+
+### © [komutkadum](https://kadmon47.github.io/kadumkomut/)
