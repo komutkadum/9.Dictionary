@@ -17,6 +17,6 @@
 - bootstrap()
 
 ## Api Used
-- https://dictionaryapi.dev/
+- [dictionaryapi](https://dictionaryapi.dev/)
 
-### © [komutkadum](https://kadmon47.github.io/kadumkomut/)
+### © [kadumkomut](https://kadmon47.github.io/kadumkomut/)
